@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CST8919 Lab 1 – Flask Authentication with Auth0
 
 ## Overview
@@ -87,3 +88,6 @@ PASTE_YOUR_YOUTUBE_LINK_HERE
 * How Auth0 integrates with Flask
 * How to protect routes using session authentication
 * How to manage user login and logout securely
+=======
+# lab1-cst8919
+>>>>>>> 14e8770bc1c975bef7df632b172df52bdc1be932
