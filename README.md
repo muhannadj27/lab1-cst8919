@@ -89,5 +89,3 @@ https://youtu.be/ghtllSDxOD4
 * How to protect routes using session authentication
 * How to manage user login and logout securely
 =======
-# lab1-cst8919
->>>>>>> 14e8770bc1c975bef7df632b172df52bdc1be932
