@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CST8919 Lab 1 – Flask Authentication with Auth0
 
 ## Overview
@@ -80,7 +80,7 @@ http://localhost:3000
 ## Demo Video
 
 YouTube Link:
-PASTE_YOUR_YOUTUBE_LINK_HERE
+https://youtu.be/ghtllSDxOD4
 
 ## What I Learned
 
